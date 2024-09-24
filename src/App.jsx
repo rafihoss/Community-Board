@@ -1,6 +1,6 @@
 import './App.css'
 import Card from '../components/Card'
-import premBANNER from "../images/prembanner.png" // Update the import path
+import premBANNER from "../images/prembanner.png" 
 
 const App = () => {
   return (

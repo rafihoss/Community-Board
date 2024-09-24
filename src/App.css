@@ -5,7 +5,7 @@
 }
 
 .centered-image {
-  max-width: 100%; /* makes sure the image fits within the container */
+  max-width: 100%; 
 }
 
 h1 {
@@ -15,8 +15,9 @@ h1 {
   margin-top: 50px; 
 }
 
+/*cardboard*/
 .cardboard {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center; /* Center the cards horizontally */
+  justify-content: center; 
 }
